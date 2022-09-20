@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheLoneWnderer
-- 👀 I’m interested in web developement and cyber security.
-- 🌱 I’m currently learning web developement
-- 💞️ I’m looking to collaborate on web app or websites
+- 👀 I’m interested in developement, AI and cyber security.
+- 🌱 I’m currently learning cyber security
+- 💞️ I’m looking to collaborate on web app or websites or anything where i can learn and improve
 - 📫 How to reach me :
 -   Discord : The Lone Wnderer#2947
 
