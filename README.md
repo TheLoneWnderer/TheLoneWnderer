@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @TheLoneWnderer
+- 👋 Hi, I’m @Ceturxe
 - 👀 I’m interested in  cybersecurity.
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on web app or websites or anything where i can learn and improve
 - 📫 How to reach me :
--   Discord : thelonewnderer
+-   Discord : ceturxe
 
 <!---
 TheLoneWnderer/TheLoneWnderer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
