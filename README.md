@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheLoneWnderer
-- 👀 I’m interested in developement, AI and cyber security.
+- 👀 I’m interested in  cybersecurity.
 - 🌱 I’m currently learning cyber security
 - 💞️ I’m looking to collaborate on web app or websites or anything where i can learn and improve
 - 📫 How to reach me :
